@@ -1,0 +1,12 @@
+1.Improves both speed and efficiency.
+2.Used in linear data structure(Array ,Linked list ,String).
+
+When to use it?
+1.palindrome
+2.Pair sum
+3.Removing or Merging elements.
+4.Detecting loops or middle elements like in linked list.
+
+Templates:
+1.First pointer from start and another from end.
+2.Both from start or end.
